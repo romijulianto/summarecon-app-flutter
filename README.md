@@ -1,16 +1,43 @@
-# summareconapps
+# Project Aplikasi Mobile Summarecon
+Project for Technical Test Employee at PT. Summarecon Agung Tbk
+# Brief Project
+Project ini adalah aplikasi contoh untuk keperluan tes teknical dari PT. Summarecon Agung Tbk. Segala design milik PT. Summarecon Agung Tbk.
 
-A new Flutter project.
+#### Resources
+- [File Design Figma](https://www.figma.com/file/UfhD5NdGI5AhX6LF0unnmA/Test-Develope-Mobile-Apps-Summarecon?node-id=0%3A1)
+# Screenshot
+<img src="https://i.ibb.co/xDxVQPq/splash-screen.png"
+     alt="Splash Screen"
+     style="float: left; margin-right: 10px;"
+     width="200" />
+<img src="https://i.ibb.co/YBXQwf6/log-in-screen.png"
+     alt="Sign In Screen"
+     style="float: left; margin-right: 10px;"
+     width="200" />
+<img src="https://i.ibb.co/0tdgMN2/sign-up-screen.png"
+     alt="Sign Up Screen"
+     style="float: left; margin-right: 10px;"
+     width="200" />
+<img src=""
+     alt="About Screen"
+     style="float: left; margin-right: 10px;"
+     width="200" />
+     
+## Features
+#### Screen Checklists
+- [x] Display splash screen
+- [x] Display Login Screen
+- [x] Display SignUp Screen
+- [] Display Home Screen and Detail Screen
+- [] Display Reservation Screen and Category Detail Reservation
+- [] Display Order, Payment and Checkout Screen
 
-## Getting Started
+## Installation
+Clone this repository and import into Android Studio or Visual Studio Code
+```
+https://github.com/romijulianto/summarecon-app-flutter
+```
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Author
+* #### Romi Julianto
