@@ -138,7 +138,9 @@ class SignIn extends StatelessWidget {
           width: double.infinity,
           height: 55,
           child: TextButton(
-            onPressed: () {},
+            onPressed: () {
+              Navigator.pushNamed(context, '/sign-up');
+            },
             style: TextButton.styleFrom(
               backgroundColor: Colors.orangeAccent,
               shape: RoundedRectangleBorder(

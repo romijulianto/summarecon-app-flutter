@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:summareconapps/ui/pages/sign_in_screen.dart';
+import 'package:summareconapps/ui/pages/sign_up_screen.dart';
 import 'package:summareconapps/ui/pages/splash_screen.dart';
 // ignore_for_file: prefer_const_constructors
 
@@ -15,6 +16,7 @@ class SummareconApps extends StatelessWidget {
       routes: {
         '/': (context) => SplashScreen(),
         '/sign-in': (context) => SignIn(),
+        '/sign-up': (context) => SignUp(),
       },
     );
   }
